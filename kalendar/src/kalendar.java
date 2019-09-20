@@ -43,8 +43,6 @@ public class kalendar {
 		case 3:
 			System.out.println("Это год свиньи.");
 			break;
-		default :
-			System.out.println("В старояпонском календаре 12-летний цикл.");
 		}
 	}
 }
